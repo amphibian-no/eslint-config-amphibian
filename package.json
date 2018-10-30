@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-amphibian",
+  "version": "1.0.0",
+  "description": "@amphibian eslint shareable config",
+  "main": "index.js",
+  "repository": "https://github.com/amphibian-no/eslint-config-amphibian",
+  "author": "Thomas Lindstrøm <t@hom.as>",
+  "license": "MIT"
+}
