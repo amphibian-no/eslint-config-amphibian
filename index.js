@@ -18,7 +18,7 @@ module.exports = {
 				json: 'always'
 			}
 		],
-		'jsx-tag-spacing': [
+		'react/jsx-tag-spacing': [
 			2,
 			{
 				"closingSlash": "never",
