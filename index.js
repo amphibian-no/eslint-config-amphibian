@@ -17,6 +17,15 @@ module.exports = {
 			{
 				json: 'always'
 			}
+		],
+		'jsx-tag-spacing': [
+			2,
+			{
+				"closingSlash": "never",
+				"beforeSelfClosing": "always",
+				"afterOpening": "never",
+				"beforeClosing": "never"
+			}
 		]
 	}
 };
