@@ -17,6 +17,7 @@ module.exports = {
 			{
 				json: 'always'
 			}
-		]
+		],
+		'promise/prefer-await-to-then': 0
 	}
 };
